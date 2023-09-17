@@ -10,7 +10,7 @@ const Footer=()=>{
                 <div className="col-lg-3 col-md-6">
                   <aside className="widget widget-logo">
                     <a href="index.html">
-                      <img src="../src/assets/img/logo_default_white.png" srcSet="../src/assets/img/logo_default_white.png 1x, img/logo_default_white@2x.png 2x" className="logo__img" alt="" />
+                      <img src="/img/logo_default_white.png" srcSet="/img/logo_default_white.png 1x, img/logo_default_white@2x.png 2x" className="logo__img" alt="" />
                     </a>
                     <p className="copyright">
                       © 2018 Deus | Made by <a href="https://deothemes.com">DeoThemes</a>
@@ -48,7 +48,7 @@ const Footer=()=>{
                           <div className="post-list-small__img-holder">
                             <div className="thumb-container thumb-100">
                               <a href="single-post.html">
-                                <img data-src="../src/assets/img/content/post_small/post_small_1.jpg" src="../src/assets/img/empty.png" alt="" className="post-list-small__img--rounded lazyload" />
+                                <img data-src="/img/content/post_small/post_small_1.jpg" src="/img/empty.png" alt="" className="post-list-small__img--rounded lazyload" />
                               </a>
                             </div>
                           </div>
@@ -73,7 +73,7 @@ const Footer=()=>{
                           <div className="post-list-small__img-holder">
                             <div className="thumb-container thumb-100">
                               <a href="single-post.html">
-                                <img data-src="../src/assets/img/content/post_small/post_small_2.jpg" src="../src/assets/img/empty.png" alt="" className="post-list-small__img--rounded lazyload" />
+                                <img data-src="/img/content/post_small/post_small_2.jpg" src="/img/empty.png" alt="" className="post-list-small__img--rounded lazyload" />
                               </a>
                             </div>
                           </div>

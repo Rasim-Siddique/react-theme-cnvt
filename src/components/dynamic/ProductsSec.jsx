@@ -130,7 +130,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <Link to="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_3.jpg" src="../src/assets/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_3.jpg" src="/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </Link>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--orange">mining</a>
@@ -163,7 +163,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <Link href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_4.jpg" src="../src/assets/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_4.jpg" src="/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </Link>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--green">lifestyle</a>
@@ -196,7 +196,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <Link to="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_1.jpg" src="../src/assets/img/content/grid/grid_post_1.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_1.jpg" src="/img/content/grid/grid_post_1.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </Link>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--violet">world</a>
@@ -229,7 +229,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_2.jpg" src="../src/assets/img/content/grid/grid_post_2.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_2.jpg" src="/img/content/grid/grid_post_2.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--purple">fashion</a>
@@ -267,7 +267,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_1.jpg" src="../src/assets/img/content/grid/grid_post_1.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_1.jpg" src="/img/content/grid/grid_post_1.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--violet">world</a>
@@ -300,7 +300,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_2.jpg" src="../src/assets/img/content/grid/grid_post_2.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_2.jpg" src="/img/content/grid/grid_post_2.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--purple">fashion</a>
@@ -333,7 +333,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_3.jpg" src="../src/assets/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_3.jpg" src="/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--orange">mining</a>
@@ -366,7 +366,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_4.jpg" src="../src/assets/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_4.jpg" src="/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--green">lifestyle</a>
@@ -404,7 +404,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_3.jpg" src="../src/assets/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_3.jpg" src="/img/content/grid/grid_post_3.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--orange">mining</a>
@@ -437,7 +437,7 @@ const ProductsSec=({allActive,getAllData,isLoading, data,active, filterDataByCat
                         <div className="entry__img-holder card__img-holder">
                             <a href="/single-product">
                                 <div className="thumb-container thumb-70">
-                                    <img data-src="../src/assets/img/content/grid/grid_post_4.jpg" src="../src/assets/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
+                                    <img data-src="/img/content/grid/grid_post_4.jpg" src="/img/content/grid/grid_post_4.jpg" className="entry__img lazyload" alt="" />
                                 </div>
                             </a>
                             <a href="#" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--green">lifestyle</a>

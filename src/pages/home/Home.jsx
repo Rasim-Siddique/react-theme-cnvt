@@ -67,10 +67,10 @@ return (
                                     <article className="entry card post-list featured-posts-grid__entry">
                                         <div className="entry__img-holder post-list__img-holder card__img-holder"
                                             style={{
-                                                backgroundImage: `url(${`../src/assets/img/content/hero/hero_post_1.jpg`})`,
+                                                backgroundImage: `url(${`/img/content/hero/hero_post_1.jpg`})`,
                                             }}
                                         >                      <Link to="/single-product" className="thumb-url"></Link>
-                                            <img src="../src/assets/img/content/hero/hero_post_1.jpg" alt="" className="entry__img d-none" />
+                                            <img src="/img/content/hero/hero_post_1.jpg" alt="" className="entry__img d-none" />
                                             <a href="categories.html" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--violet">World</a>
                                         </div>
 
@@ -95,11 +95,11 @@ return (
                                     <article className="entry card post-list featured-posts-grid__entry">
                                         <div className="entry__img-holder post-list__img-holder card__img-holder"
                                             style={{
-                                                backgroundImage: `url(${'../src/assets/img/content/hero/hero_post_2.jpg'})`,
+                                                backgroundImage: `url(${'/img/content/hero/hero_post_2.jpg'})`,
                                             }}
 
                                         >                      <Link to="single-product" className="thumb-url"></Link>
-                                            <img src="../src/assets/img/content/hero/hero_post_2.jpg" alt="" className="entry__img d-none" />
+                                            <img src="/img/content/hero/hero_post_2.jpg" alt="" className="entry__img d-none" />
                                             <a href="categories.html" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--purple">Fashion</a>
                                         </div>
 
@@ -124,11 +124,11 @@ return (
                                     <article className="entry card post-list featured-posts-grid__entry">
                                         <div className="entry__img-holder post-list__img-holder card__img-holder"
                                             style={{
-                                                backgroundImage: `url(${'../src/assets/img/content/hero/hero_post_3.jpg'})`,
+                                                backgroundImage: `url(${'/img/content/hero/hero_post_3.jpg'})`,
                                                 /* Other CSS properties can be added here */
                                             }}
                                         >                      <Link href="/single-product" className="thumb-url"></Link>
-                                            <img src="../src/assets/img/content/hero/hero_post_3.jpg" alt="" className="entry__img d-none" />
+                                            <img src="/img/content/hero/hero_post_3.jpg" alt="" className="entry__img d-none" />
                                             <a href="categories.html" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--blue">Business</a>
                                         </div>
 
@@ -161,7 +161,7 @@ return (
                                     <article className="entry card featured-posts-grid__entry">
                                         <div className="entry__img-holder card__img-holder">
                                             <Link to="single-product">
-                                                <img src="../src/assets/img/content/hero/hero_post_4.jpg" alt="" className="entry__img" />
+                                                <img src="/img/content/hero/hero_post_4.jpg" alt="" className="entry__img" />
                                             </Link>
                                             <a href="categories.html" className="entry__meta-category entry__meta-category--label entry__meta-category--align-in-corner entry__meta-category--green">Lifestyle</a>
                                         </div>
@@ -200,7 +200,7 @@ return (
 
                     <div className="text-center pb-48">
                         <a href="#">
-                            <img src="../src/assets/img/content/placeholder_728.jpg" alt="" />
+                            <img src="/img/content/placeholder_728.jpg" alt="" />
                         </a>
                     </div>
 
@@ -213,7 +213,7 @@ return (
                             <article className="entry thumb thumb--size-1">
                                 <div className="entry__img-holder thumb__img-holder"
                                     style={{
-                                        backgroundImage: "url('../src/assets/img/content/carousel/carousel_post_1.jpg')",
+                                        backgroundImage: "url('/img/content/carousel/carousel_post_1.jpg')",
                                     }}
                                 >
                                     <div className="bottom-gradient"></div>
@@ -228,7 +228,7 @@ return (
                             <article className="entry thumb thumb--size-1">
                                 <div className="entry__img-holder thumb__img-holder"
                                     style={{
-                                        backgroundImage: `url(${'../src/assets/img/content/carousel/carousel_post_2.jpg'})`,
+                                        backgroundImage: `url(${'/img/content/carousel/carousel_post_2.jpg'})`,
                                     }}
                                 >
                                     <div className="bottom-gradient"></div>
@@ -243,7 +243,7 @@ return (
                             <article className="entry thumb thumb--size-1">
                                 <div className="entry__img-holder thumb__img-holder"
                                     style={{
-                                        backgroundImage: `url(${'../src/assets/img/content/carousel/carousel_post_3.jpg'})`,
+                                        backgroundImage: `url(${'/img/content/carousel/carousel_post_3.jpg'})`,
                                     }}
                                 >                  <div className="bottom-gradient"></div>
                                     <div className="thumb-text-holder">
@@ -257,7 +257,7 @@ return (
                             <article className="entry thumb thumb--size-1">
                                 <div className="entry__img-holder thumb__img-holder"
                                     style={{
-                                        backgroundImage: `url(${'../src/assets/img/content/carousel/carousel_post_4.jpg'})`,
+                                        backgroundImage: `url(${'/img/content/carousel/carousel_post_4.jpg'})`,
                                     }}
                                 >                  <div className="bottom-gradient"></div>
                                     <div className="thumb-text-holder">
@@ -271,7 +271,7 @@ return (
                             <article className="entry thumb thumb--size-1">
                                 <div className="entry__img-holder thumb__img-holder"
                                     style={{
-                                        backgroundImage: `url(${'../src/assets/img/content/carousel/carousel_post_2.jpg'})`,
+                                        backgroundImage: `url(${'/img/content/carousel/carousel_post_2.jpg'})`,
                                     }}
                                 >                  <div className="bottom-gradient"></div>
                                     <div className="thumb-text-holder">
@@ -299,7 +299,7 @@ return (
                                         <article className="entry thumb thumb--size-2">
                                             <div className="entry__img-holder thumb__img-holder"
                                                 style={{
-                                                    backgroundImage: `url(${'../src/assets/img/content/thumb/thumb_post_1.jpg'})`,
+                                                    backgroundImage: `url(${'/img/content/thumb/thumb_post_1.jpg'})`,
                                                 }}
                                             >                        <div className="bottom-gradient"></div>
                                                 <div className="thumb-text-holder thumb-text-holder--1">
@@ -372,7 +372,7 @@ return (
                                         <article className="entry thumb thumb--size-2">
                                             <div className="entry__img-holder thumb__img-holder"
                                                 style={{
-                                                    backgroundImage: `url(${'../src/assets/img/content/thumb/thumb_post_2.jpg'})`,
+                                                    backgroundImage: `url(${'/img/content/thumb/thumb_post_2.jpg'})`,
                                                 }}
                                             >                        <div className="bottom-gradient"></div>
                                                 <div className="thumb-text-holder thumb-text-holder--1">
@@ -445,7 +445,7 @@ return (
                                         <article className="entry thumb thumb--size-2">
                                             <div className="entry__img-holder thumb__img-holder"
                                                 style={{
-                                                    backgroundImage: `url(${'../src/assets/img/content/thumb/thumb_post_3.jpg'})`,
+                                                    backgroundImage: `url(${'/img/content/thumb/thumb_post_3.jpg'})`,
                                                 }}
                                             >                        <div className="bottom-gradient"></div>
                                                 <div className="thumb-text-holder thumb-text-holder--1">
@@ -518,7 +518,7 @@ return (
                                         <article className="entry thumb thumb--size-2">
                                             <div className="entry__img-holder thumb__img-holder"
                                                 style={{
-                                                    backgroundImage: `url(${'../src/assets/img/content/thumb/thumb_post_4.jpg'})`,
+                                                    backgroundImage: `url(${'/img/content/thumb/thumb_post_4.jpg'})`,
                                                 }}
                                             >                        <div className="bottom-gradient"></div>
                                                 <div className="thumb-text-holder thumb-text-holder--1">
@@ -596,7 +596,7 @@ return (
                                     <div className="entry__img-holder card__img-holder">
                                         <a to="/single-product">
                                             <div className="thumb-container thumb-65">
-                                                <img data-src="../src/assets/img/content/grid/grid_post_5.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                                <img data-src="/img/content/grid/grid_post_5.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
                                             </div>
                                         </a>
                                         <div className="entry__play-time"><i className="ui-play"></i>3:21</div>
@@ -628,7 +628,7 @@ return (
                                     <div className="entry__img-holder card__img-holder">
                                         <a to="/single-product">
                                             <div className="thumb-container thumb-65">
-                                                <img data-src="../src/assets/img/content/grid/grid_post_6.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                                <img data-src="/img/content/grid/grid_post_6.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
                                             </div>
                                         </a>
                                         <div className="entry__play-time"><i className="ui-play"></i>3:21</div>

@@ -67,7 +67,7 @@ const Navbar=()=>{
        
 
         <Link to="/" className="logo">
-          <img className="logo__img" src="../src/assets/img/logo_default.png" alt="logo" />
+          <img className="logo__img" src="/img/logo_default.png" alt="logo" />
         </Link>
 
         <nav className="flex-child nav__wrap d-none d-lg-block">

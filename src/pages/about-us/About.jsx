@@ -32,7 +32,7 @@ const About=()=>{
   <div className="blog__content mb-72">
     <h1 className="page-title">About</h1>
     <img
-    src="../src/assets/img/content/about/about_bg.jpg" className="page-featured-img" />
+    src="/img/content/about/about_bg.jpg" className="page-featured-img" />
     <div className="row justify-content-center">
       <div className="col-lg-8">
         <div className="entry__article">

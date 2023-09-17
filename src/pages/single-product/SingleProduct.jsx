@@ -56,7 +56,7 @@ const SingleProduct=()=>{
               </div> 
 
               <div className="entry__img-holder">
-                <img src="../src/assets/img/content/single/single_post_featured_img.jpg" alt="" className="entry__img" />
+                <img src="/img/content/single/single_post_featured_img.jpg" alt="" className="entry__img" />
               </div>
 
               <div className="entry__article-wrap">
@@ -93,7 +93,7 @@ const SingleProduct=()=>{
                   <p>Plus, your eyes won’t be so prone to checking the time. <a href="#">Check out these</a> and more reasons to bring your music to work in this Zing Instruments infographic below. A great piece of music is an instant mood lifter. Plenty of scientific evidence backs this up - we`re happier bunnies when listening to music.</p>
 
                   <figure className="alignleft">
-                    <img data-src="../src/assets/img/content/single/single_post_img_1.jpg" src="../src/assets/img/content/single/single_post_img_1.jpg" alt="" className="lazyload" />
+                    <img data-src="/img/content/single/single_post_img_1.jpg" src="/img/content/single/single_post_img_1.jpg" alt="" className="lazyload" />
                     <figcaption>Having specific asks</figcaption>
                   </figure>             
 
@@ -105,7 +105,7 @@ const SingleProduct=()=>{
                   <h2>Stylish article pages</h2>
 
                   <figure className="alignright">
-                    <img data-src="../src/assets/img/content/single/single_post_img_2.jpg" src="../src/assets/img/content/single/single_post_img_2.jpg" alt="" className="lazyload" />
+                    <img data-src="/img/content/single/single_post_img_2.jpg" src="/img/content/single/single_post_img_2.jpg" alt="" className="lazyload" />
                     <figcaption>make it happen</figcaption>
                   </figure>  
 
@@ -128,7 +128,7 @@ const SingleProduct=()=>{
 
                   <div className="final-review" 
                    style={{
-                    backgroundImage: `url(${`../src/assets/img/content/single/final_review.jpg`})`,
+                    backgroundImage: `url(${`/img/content/single/final_review.jpg`})`,
                 }}
 >                    <div className="final-review__score">
                       <span className="final-review__score-number">9.2</span>
@@ -194,7 +194,7 @@ const SingleProduct=()=>{
               </nav>
 
               <div className="entry-author clearfix">
-                <img alt="" data-src="../src/assets/img/content/single/author.jpg" src="../src/assets/img/content/single/author.jpg" className="avatar lazyload" />
+                <img alt="" data-src="/img/content/single/author.jpg" src="/img/content/single/author.jpg" className="avatar lazyload" />
                 <div className="entry-author__info">
                   <h6 className="entry-author__name">
                     <a href="#">John Carpet</a>
@@ -212,7 +212,7 @@ const SingleProduct=()=>{
                   <article className="entry thumb thumb--size-1">
                     <div className="entry__img-holder thumb__img-holder"
                      style={{
-                        backgroundImage: `url(${`../src/assets/img/content/carousel/carousel_post_1.jpg`})`,
+                        backgroundImage: `url(${`/img/content/carousel/carousel_post_1.jpg`})`,
                     }}
 >                      <div className="bottom-gradient"></div>
                       <div className="thumb-text-holder">   
@@ -226,7 +226,7 @@ const SingleProduct=()=>{
                   <article className="entry thumb thumb--size-1">
                     <div className="entry__img-holder thumb__img-holder"
                      style={{
-                        backgroundImage: `url(${`../src/assets/img/content/carousel/carousel_post_2.jpg`})`,
+                        backgroundImage: `url(${`/img/content/carousel/carousel_post_2.jpg`})`,
                     }}
 >                      <div className="bottom-gradient"></div>
                       <div className="thumb-text-holder">   
@@ -241,7 +241,7 @@ const SingleProduct=()=>{
                     <div className="entry__img-holder thumb__img-holder"
                     
                     style={{
-                        backgroundImage: `url(${`../src/assets/img/content/carousel/carousel_post_3.jpg`})`,
+                        backgroundImage: `url(${`/img/content/carousel/carousel_post_3.jpg`})`,
                     }}
                     >
                     
@@ -257,7 +257,7 @@ const SingleProduct=()=>{
                   <article className="entry thumb thumb--size-1">
                     <div className="entry__img-holder thumb__img-holder"
                        style={{
-                        backgroundImage: `url(${`../src/assets/img/content/carousel/carousel_post_3.jpg`})`,
+                        backgroundImage: `url(${`/img/content/carousel/carousel_post_3.jpg`})`,
                     }}
 >                      <div className="bottom-gradient"></div>
                       <div className="thumb-text-holder">   
@@ -272,7 +272,7 @@ const SingleProduct=()=>{
                     <div className="entry__img-holder thumb__img-holder"
 
 style={{
-    backgroundImage: `url(${`../src/assets/img/content/carousel/carousel_post_4.jpg`})`,
+    backgroundImage: `url(${`/img/content/carousel/carousel_post_4.jpg`})`,
 }}
 >                    
                       <div className="bottom-gradient"></div>
@@ -298,7 +298,7 @@ style={{
                 <li className="comment">  
                   <div className="comment-body">
                     <div className="comment-avatar">
-                      <img alt="" src="../src/assets/img/content/single/comment_1.jpg" />
+                      <img alt="" src="/img/content/single/comment_1.jpg" />
                     </div>
                     <div className="comment-text">
                       <h6 className="comment-author">Joeby Ragpa</h6>
@@ -314,7 +314,7 @@ style={{
                     <li className="comment">
                       <div className="comment-body">
                         <div className="comment-avatar">
-                          <img alt="" src="../src/assets/img/content/single/comment_2.jpg" />
+                          <img alt="" src="/img/content/single/comment_2.jpg" />
                         </div>
                         <div className="comment-text">
                           <h6 className="comment-author">Alexander Samokhin</h6>
@@ -333,7 +333,7 @@ style={{
                 <li>
                   <div className="comment-body">
                     <div className="comment-avatar">
-                      <img alt="" src="../src/assets/img/content/single/comment_3.jpg" />
+                      <img alt="" src="/img/content/single/comment_3.jpg" />
                     </div>
                     <div className="comment-text">
                       <h6 className="comment-author">Chris Root</h6>
@@ -394,7 +394,7 @@ style={{
                   <div className="post-list-small__img-holder">
                     <div className="thumb-container thumb-100">
                       <a href="single-post.html">
-                        <img data-src="../src/assets/img/content/post_small/post_small_1.jpg" src="../src/assets/img/content/post_small/post_small_1.jpg" alt="" className="post-list-small__img--rounded lazyload" />
+                        <img data-src="/img/content/post_small/post_small_1.jpg" src="/img/content/post_small/post_small_1.jpg" alt="" className="post-list-small__img--rounded lazyload" />
                       </a>
                     </div>
                   </div>
@@ -419,7 +419,7 @@ style={{
                   <div className="post-list-small__img-holder">
                     <div className="thumb-container thumb-100">
                       <a href="single-post.html">
-                        <img data-src="../src/assets/img/content/post_small/post_small_2.jpg" src="../src/assets/img/content/post_small/post_small_2.jpg" alt="" className="post-list-small__img--rounded lazyload" />
+                        <img data-src="/img/content/post_small/post_small_2.jpg" src="/img/content/post_small/post_small_2.jpg" alt="" className="post-list-small__img--rounded lazyload" />
                       </a>
                     </div>
                   </div>
@@ -444,7 +444,7 @@ style={{
                   <div className="post-list-small__img-holder">
                     <div className="thumb-container thumb-100">
                       <a href="single-post.html">
-                        <img data-src="../src/assets/img/content/post_small/post_small_3.jpg" src="../src/assets/img/content/post_small/post_small_3.jpg" alt="" className="post-list-small__img--rounded lazyload" />
+                        <img data-src="/img/content/post_small/post_small_3.jpg" src="/img/content/post_small/post_small_3.jpg" alt="" className="post-list-small__img--rounded lazyload" />
                       </a>
                     </div>
                   </div>
@@ -469,7 +469,7 @@ style={{
                   <div className="post-list-small__img-holder">
                     <div className="thumb-container thumb-100">
                       <a href="single-post.html">
-                        <img data-src="../src/assets/img/content/post_small/post_small_4.jpg" src="../src/assets/img/content/post_small/post_small_4.jpg" alt="" className="post-list-small__img--rounded lazyload" />
+                        <img data-src="/img/content/post_small/post_small_4.jpg" src="/img/content/post_small/post_small_4.jpg" alt="" className="post-list-small__img--rounded lazyload" />
                       </a>
                     </div>
                   </div>
